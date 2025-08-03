@@ -1,7 +1,7 @@
-package com.erick.conversordemonedas.servicio;
+package com.challenge.conversordemonedas.servicio;
 
-import com.erick.conversordemonedas.api.ClienteApi;
-import com.erick.conversordemonedas.modelo.TasaDeCambio;
+import com.challenge.conversordemonedas.api.ClienteApi;
+import com.challenge.conversordemonedas.modelo.TasaDeCambio;
 
 import java.util.Map;
 

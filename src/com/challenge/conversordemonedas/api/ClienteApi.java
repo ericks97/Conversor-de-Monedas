@@ -1,6 +1,6 @@
-package com.erick.conversordemonedas.api;
+package com.challenge.conversordemonedas.api;
 
-import com.erick.conversordemonedas.modelo.TasaDeCambio;
+import com.challenge.conversordemonedas.modelo.TasaDeCambio;
 import com.google.gson.Gson;
 
 import java.io.IOException;

@@ -1,6 +1,6 @@
-package com.erick.conversordemonedas.main;
+package com.challenge.conversordemonedas.main;
 
-import com.erick.conversordemonedas.servicio.ServicioDeConversion;
+import com.challenge.conversordemonedas.servicio.ServicioDeConversion;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

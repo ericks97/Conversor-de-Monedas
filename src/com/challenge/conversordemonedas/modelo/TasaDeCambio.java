@@ -1,4 +1,4 @@
-package com.erick.conversordemonedas.modelo;
+package com.challenge.conversordemonedas.modelo;
 
 import java.util.Map;
 

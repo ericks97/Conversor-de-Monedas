@@ -1,7 +1,7 @@
-package com.erick.conversordemonedas.Test;
+package com.challenge.conversordemonedas.Test;
 
-import com.erick.conversordemonedas.api.ClienteApi;
-import com.erick.conversordemonedas.modelo.TasaDeCambio;
+import com.challenge.conversordemonedas.api.ClienteApi;
+import com.challenge.conversordemonedas.modelo.TasaDeCambio;
 
 public class TestApi {
     public static void main(String[] args) {
